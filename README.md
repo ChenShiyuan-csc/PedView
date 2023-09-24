@@ -13,6 +13,9 @@ Follow the MMDetection3d to process the data.
   <img src="figures/results.jpg" width="70%"/>
 </p>
 
+## Usage
+Follow the [FCOS3D](https://github.com/open-mmlab/mmdetection3d/tree/v1.0.0rc6/configs/fcos3d) to use the monocular 3d detector.
+
 ## Results and models
 ### NuScenes
 | Backbone | AP | ATE (m) | AAE (1-acc) | Download |
