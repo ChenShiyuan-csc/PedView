@@ -20,7 +20,7 @@ Follow the [FCOS3D](https://github.com/open-mmlab/mmdetection3d/tree/v1.0.0rc6/c
 ### NuScenes
 | Backbone | AP | ATE (m) | AAE (1-acc) | Download |
 | :---------: | :----: | :----: | :------: | :------: |
-|[Swin-small](./projects/configs/obj_dgcnn/pillar.py)| 0.4284 | 0.6820 | 0.1664 |[Baidu](https://pan.baidu.com/s/11hjM_yLIc-RNOhbKTXziQA?pwd=4o82) &#124; [Google](https://drive.google.com/file/d/1PTcmxeo2ik7eySYvn45xLzqOdyoGvxBw/view?usp=sharing)|
+|[Swin-small](./mmdetection3d/configs/fcos3d/fcos3d_swin_s_fpn_gn-head_8x1_2x_nus-mono3d.py)| 0.4284 | 0.6820 | 0.1664 |[Baidu](https://pan.baidu.com/s/11hjM_yLIc-RNOhbKTXziQA?pwd=4o82) &#124; [Google](https://drive.google.com/file/d/1PTcmxeo2ik7eySYvn45xLzqOdyoGvxBw/view?usp=sharing)|
 ### NuScenes-collision
 | Method | Precision | Recall |
 | :---------: | :----: | :----: |
