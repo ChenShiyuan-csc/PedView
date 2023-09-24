@@ -1,5 +1,5 @@
 # PedView
-Official implementation of Pedestrian Collision Prediction Using a Monocular Camera
+This repo contains the implementations of PedView and nuscenes-collision dataset. Our implementations are built on top of MMdetection3D.
 <p align="left">
   <img src="figures/pipeline.jpg" width="70%"/>
 </p>
